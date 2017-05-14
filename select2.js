@@ -1,4 +1,8 @@
-﻿/*
+﻿
+sadfsdasdzfsaf
+
+test
+/*
 Copyright 2012 Igor Vaynberg
 
 Version: @@ver@@ Timestamp: @@timestamp@@

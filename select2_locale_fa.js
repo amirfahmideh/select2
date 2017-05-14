@@ -1,11 +1,11 @@
-/**
+﻿/**
  * Select2 <fa> translation.
  * 
  * Author: Ali Choopan <choopan@arsh.co>
  */
 (function ($) {
     "use strict";
-
+asdasdas
     $.extend($.fn.select2.defaults, {
         formatNoMatches: function () { return "نتیجه‌ای یافت نشد."; },
         formatInputTooShort: function (input, min) { var n = min - input.length; return " لطفا بیش از"+n+"کاراکتر وارد نمایید "; },
